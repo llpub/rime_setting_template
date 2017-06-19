@@ -1,0 +1,8 @@
+#  default.custom.yaml
+# 2017.4.08 editxxx, this is the only file edited
+patch:
+  menu/page_size: 7  #candidate num per page
+  "key_binder/bindings":
+    - { when: composing, accept: KP_Enter, send: Return } #linux only, use KP_Enter input en
+    - {accept: minus, send: Page_Up, when: paging}
+    - {accept: equal, send: Page_Down, when: has_menu} #=/- paging

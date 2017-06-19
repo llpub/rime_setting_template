@@ -1,0 +1,149 @@
+# ByAA 20170605 luna_pinyin.custom.yaml -> luna_pinyin.extended.dict.yaml -> luna_pinyin.sogou.dict.yaml/luna_pinyin.fruit.dict.yaml
+# if no additional dict, remove above 3 *yaml, no them by default
+
+---
+name: luna_pinyin.sogou
+version: "2017.06.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+氨基端	an ji duan	1
+氨基酸	an ji suan	1
+靶標識別	ba biao shi bie	1
+胞嘧啶	bao mi ding	1
+保守序列	bao shou xu lie	1
+編碼序列	bian ma xu lie	1
+變性蛋白質	bian xing dan bai zhi	1
+表達譜	biao da pu	1
+表達序列標籤	biao da xu lie biao qian	1
+標度樹	biao du shu	1
+表型	biao xing	1
+比對	bi dui	1
+比對的比對	bi dui de bi dui	1
+病毒	bing du	1
+殘基	can ji	1
+操縱子	cao zong zi	1
+操縱子序列	cao zong zi xu lie	1
+側鏈	ce lian	1
+測序	ce xu	1
+常染色體	chang ran se ti	1
+常染色質	chang ran se zhi	1
+超二級結構	chao er ji jie gou	1
+超家族	chao jia zu	1
+插入或刪除	cha ru huo shan chu	1
+插入序列	cha ru xu lie	1
+沉默子	chen mo zi	1
+重組克隆	chong zu ke long	1
+串聯重複序列	chuan lian chong fu xu lie	1
+大腸桿菌	da chang gan jun	1
+打分矩陣	da fen ju zhen	1
+帶電氨基酸	dai dian an ji suan	1
+蛋白質	dan bai zhi	1
+蛋白質測序	dan bai zhi ce xu	1
+蛋白質電泳	dan bai zhi dian yong	1
+蛋白質骨架	dan bai zhi gu jia	1
+蛋白質結構預測線索法	dan bai zhi jie gou yu ce xian suo fa	1
+蛋白質組	dan bai zhi zu	1
+蛋白質組學	dan bai zhi zu xue	1
+單倍體	dan bei ti	1
+單核苷酸多態性	dan he gan suan duo tai xing	1
+單基因病	dan ji yin bing	1
+等位基因	deng wei ji yin	1
+等值區	deng zhi qu	1
+顛換	dian huan	1
+點接受突變	dian jie shou tu bian	1
+電泳技術	dian yong ji shu	1
+點陣圖	dian zhen tu	1
+動態規劃	dong tai gui hua	1
+端粒	duan li	1
+對數機率矩陣	dui shu ji lv ju zhen	1
+多重序列比對	duo chong xu lie bi dui	1
+多核苷酸	duo he gan suan	1
+多基因病	duo ji yin bing	1
+多聚酶	duo ju mei	1
+多聚酶鏈式反應	duo ju mei lian shi fan ying	1
+多聚腺苷酸化	duo ju xian gan suan hua	1
+多順反子	duo shun fan zi	1
+多肽	duo tai	1
+多態性	duo tai xing	1
+二級結構	er ji jie gou	1
+二硫鍵	er liu jian	1
+二肽	er tai	1
+髮夾環	fa jia huan	1
+反向平行	fan xiang ping xing	1
+翻譯	fan yi	1
+非標度樹	fei biao du shu	1
+非簡併位點	fei jian bing wei dian	1
+非加權分組平均法	fei jia quan fen zu ping jun fa	1
+非信息位點	fei xin xi wei dian	1
+分裂間期	fen lie jian qi	1
+分支	fen zhi	1
+分支約束法	fen zhi yue shu fa	1
+分子克隆	fen zi ke long	1
+分子模型化	fen zi mo xing hua	1
+分子圖形學	fen zi tu xing xue	1
+分子鐘	fen zi zhong	1
+負調控	fu tiao kong	1
+構象	gou xiang	1
+管家基因	guan jia ji yin	1
+固有終止子	gu you zhong zhi zi	1
+核磁共振	he ci gong zhen	1
+核苷酸	he gan suan	1
+核酶	he mei	1
+核糖核酸	he tang he suan	1
+核糖體	he tang ti	1
+核心摺疊	he xin zhe die	1
+互補的	hu bu de	1
+互補序列	hu bu xu lie	1
+活化位點	huo hua wei dian	1
+甲基化	jia ji hua	1
+簡併性	jian bing xing	1
+鹼基對	jian ji dui	1
+剪接	jian jie	1
+剪接體	jian jie ti	1
+鹼基序列	jian ji xu lie	1
+鹼基序列分析	jian ji xu lie fen xi	1
+減數分裂	jian shu fen lie	1
+簡約性	jian yue xing	1
+家族	jia zu	1
+基本的局部比對搜索工具	ji ben de ju bu bi dui sou suo gong ju	1
+節點	jie dian	1
+結構蛋白	jie gou dan bai	1
+結構域	jie gou yu	1
+莖幹	jing gan	1
+晶體	jing ti	1
+計算分子生物學	ji suan fen zi sheng wu xue	1
+極性氨基酸	ji xing an ji suan	1
+極性鍵	ji xing jian	1
+基因	ji yin	1
+基因本體論	ji yin ben ti lun	1
+基因表達	ji yin biao da	1
+基因表達的系列分析	ji yin biao da de xi lie fen xi	1
+基因產物	ji yin chan wu	1
+基因次序	ji yin ci xu	1
+基因家族	ji yin jia zu	1
+基因內容	ji yin nei rong	1
+基因識別	ji yin shi bie	1
+基因樹	ji yin shu	1
+基因水平轉移	ji yin shui ping zhuan yi	1
+基因圖譜	ji yin tu pu	1
+基因文庫	ji yin wen ku	1
+基因型	ji yin xing	1
+基因治療	ji yin zhi liao	1
+基因組	ji yin zu	1
+基因組計劃	ji yin zu ji hua	1
+基因組文庫	ji yin zu wen ku	1
+基因組學	ji yin zu xue	1
+局部比對	ju bu bi dui	1
+聚合酶鏈反應	ju he mei lian fan ying	1
+距離變換法	ju li bian huan fa	1
+開放閱讀框	kai fang yue du kuang	1
+可變剪接	ke bian jian jie	1
+克隆	ke long	1
+克隆矩陣	ke long ju zhen	1
+克隆庫	ke long ku	1
+克隆載體	ke long zai ti	1
+空位	kong wei	1
+空位罰分	kong wei fa fen	1
+
