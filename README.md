@@ -11,6 +11,10 @@ A. 导入其它输入法的词库(非用户积累的词). 这里不能用rime_di
     
 把以上4个文件放入~/.config/fcitx/rime, 删除default.yaml以触发下次启动时的重新部署, 重启fcitx. 至此Rime导入其它输入法词库完成.
 
+可以看出:   
+a. 为了导入luna_pinyin.sogou.dict.yaml, 前面的3个都是必须的,不能缺失或者写错.  
+b. 如果需要再增加词库, 如luna_pinyin.practical.dict.yaml, 则可以在luna_pinyin.extended.dict.yaml里增加指定的词库文件, 详见luna_pinyin.extended.dict.yaml的26+行(luna_pinyin.practical.dict.yaml被写作luna_pinyin.practical, 因为不能包括'.dict.yaml');
+
 P.s. 不推荐盲目导入其它输入法的所有词库, 很多词汇其实都用不到, 最好是到某个输入法词库页面看看哪些细胞词库最需要,按需下载导入.
 
 B. 个人词库导入导出则可以用rime_dict_manager, 在debian中apt-get install fcitx-rime后系统即有这个命令.
