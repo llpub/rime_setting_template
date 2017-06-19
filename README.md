@@ -1,5 +1,5 @@
 # rime_setting_template
-linux fcitx下Rime设置的一个实例(包括导入个人积累词库和其它输入法词库)
+Linux fcitx下Rime设置的一个实例(包括导入个人积累词库和其它输入法词库)
 
 A. 导入其它输入法的词库(非用户积累的词). 这里不能用rime_dict_manager, 否则之后Rime会错乱.
 
